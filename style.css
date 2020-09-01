@@ -1,0 +1,110 @@
+*{
+      margin:0;
+      padding:0;
+}
+html, body{
+      height: 100%;
+
+}
+body{
+      background: #D6EDFF;
+}
+
+.header{
+      
+      background:#17b978;
+      text-align: center;
+      font-family: "Dancing Script";
+      text-align: center;
+      font-size: 40px ;
+    
+}
+
+p{
+      font-family: cursive;
+      font-size: small;
+      font-style: italic;
+}
+hr{
+      margin-top: 10px;
+      width: 400px;
+      color: red;
+      
+}
+.atualidade h1{
+      font-family: "Lobster";
+      text-align: center;
+      display: border-box;
+      font-size: 40px;
+}
+img{
+      width: 110px;
+      height: 110px;
+}
+.border{
+      width: 100px;
+      height: 100px;
+      border: #f5bb3f 4px double ;
+      overflow: hidden;
+      border-radius: 5px;
+      display: inline-block;
+}
+p {
+      display: inline;
+      text-align: left;
+}
+.border1{
+
+      width: 100px;
+      height: 100px;
+      border: #17b978 4px double;
+      overflow: hidden;
+      border-radius: 5px;
+}
+.border2{
+      width: 100px;
+      height: 100px;
+      border: #fa5f5f 4px double;
+      overflow: hidden;
+      border-radius: 5px;
+      
+}
+.border:hover{
+      width: 110px;
+      height: 110px;
+}
+.border1:hover{
+      width: 110px;
+      height: 110px;
+}
+.border2:hover{
+      width: 110px;
+      height: 110px;
+}
+h2{
+      font-family: cursive;
+}
+
+
+
+/*
+.topnav {
+      overflow: hidden;
+      background: #478978;
+}
+.topnav a{
+      padding: 14px 16px;
+      color: wheat;
+      text-decoration: none;
+      float: left;
+      display:block;
+      text-align: center;
+}
+
+.topnav a:hover{
+      color: black;
+      background-color: white;
+      border: 1px red; 
+      border-style: solid;
+}
+/*
